@@ -6,7 +6,6 @@
           <ion-title size="large">Tab 1</ion-title>
         </ion-toolbar>
       </ion-header>
-
       <MinhaLoja />
     </ion-content>
   </ion-page>
